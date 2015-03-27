@@ -1,0 +1,11 @@
+{
+  "name": "delto-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Because I like my code to be flaming.",
+  "repository": "https://github.com/andyosuna/delto-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
